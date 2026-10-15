@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Show&fontSize=88&fontColor=f5e6e6&fontAlignY=36&animation=fadeIn&desc=Mystic%20Falls%20%7C%20Dev%20%26%20Criador%20de%20Conte%C3%BAdo&descSize=18&descColor=d4af37&descAlignY=60&color=0:050505,45:4a0000,100:b30000" alt="Banner gótico de Show"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Show&fontSize=88&fontColor=f5e6e6&fontAlignY=36&animation=fadeIn&desc=Mystic%20Falls%20%7C%20Dev%20%26%20Criador%20de%20Conte%C3%BAdo&descSize=18&descColor=d4af37&descAlignY=60&color=0:050505,45:4a0000,100:b30000" alt="Banner"/>
 
 <a href="https://github.com/showlls">
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=3200&pause=1000&color=B30000&center=true&vCenter=true&width=760&height=55&lines=Desenvolvimento+%7C+Roblox+%7C+Discord;Criando+projetos+e+aprendendo+no+processo;Um+passo+de+cada+vez%2C+um+projeto+de+cada+vez" alt="Texto animado"/>
