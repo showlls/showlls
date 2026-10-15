@@ -1,339 +1,201 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:6C63FF,60:A970FF,85:FF6AD5,100:FFB86C&height=300&section=header&text=SHOW&fontSize=110&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&stroke=ffffff&strokeWidth=1&desc=Dev%20%E2%80%A2%20Criador%20de%20Conte%C3%BAdo%20%E2%80%A2%20Roblox%20%E2%80%A2%20Discord%20Bots&descAlign=50&descAlignY=62&descSize=20" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Show&fontSize=88&fontColor=f5e6e6&fontAlignY=36&animation=fadeIn&desc=Mystic%20Falls%20%7C%20Dev%20%26%20Criador%20de%20Conte%C3%BAdo&descSize=18&descColor=d4af37&descAlignY=60&color=0:050505,45:4a0000,100:b30000" alt="Banner gótico de Show"/>
 
 <a href="https://github.com/showlls">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=FF6AD5&center=true&vCenter=true&width=800&height=70&lines=Ol%C3%A1%2C+eu+sou+o+Show!+%F0%9F%91%8B;Criador+de+conte%C3%BAdo+de+Roblox+%F0%9F%8E%A5;Flee+The+Facility+%F0%9F%91%BE+%C3%A9+minha+casa;Dev+em+Python+%F0%9F%90%8D+Lua%2FLuau+%F0%9F%8C%99+e+JavaScript+%E2%9A%A1;Criador+de+bots+para+Discord+%F0%9F%A4%96;Transformando+ideias+em+c%C3%B3digo+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&duration=3200&pause=1000&color=B30000&center=true&vCenter=true&width=760&height=55&lines=Desenvolvimento+%7C+Roblox+%7C+Discord;Criando+projetos+e+aprendendo+no+processo;Um+passo+de+cada+vez%2C+um+projeto+de+cada+vez" alt="Texto animado"/>
 </a>
 
-<br><br>
+<br/>
 
-<img src="https://img.shields.io/badge/Python-Favorita-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Lua%2FLuau-Favorita-00A2FF?style=for-the-badge&logo=lua&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/JavaScript-Favorita-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Roblox-Creator-E2231A?style=for-the-badge&logo=roblox&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Discord-Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=showlls&style=for-the-badge&color=8B0000&label=VISITAS" alt="Visitas"/>
+<img src="https://img.shields.io/github/followers/showlls?style=for-the-badge&logo=github&logoColor=white&label=SEGUIDORES&labelColor=0d0000&color=8B0000" alt="Seguidores"/>
+<img src="https://img.shields.io/badge/STATUS-EM%20EVOLU%C3%87%C3%83O-8B0000?style=for-the-badge&labelColor=0d0000" alt="Status"/>
 
-<br>
+<br/><br/>
 
-<img src="https://img.shields.io/github/followers/showlls?style=for-the-badge&logo=github&color=6C63FF&labelColor=0d1117"/>
-<img src="https://img.shields.io/github/stars/showlls?style=for-the-badge&logo=github&color=A970FF&labelColor=0d1117"/>
-<img src="https://img.shields.io/github/repos/showlls?style=for-the-badge&logo=github&color=FF6AD5&labelColor=0d1117"/>
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divisória animada"/>
 
 </div>
 
-<br>
-
-<div align="center">
-
-# 💜 Sobre mim
-
-</div>
-
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
-### 👋 Fala, eu sou o **Show**!
-
-Desenvolvedor **iniciante** e **criador de conteúdo de jogos** apaixonado por criar coisas que as pessoas realmente usam e curtem: **jogos no Roblox**, **bots para Discord** e **vídeos** sobre o universo Roblox, principalmente **Flee The Facility**. 🎬
-
-Ainda estou no começo da jornada, mas encaro desafios e recursos complexos de cabeça erguida, porque é errando, testando e refazendo que se evolui. 🚀
-
-> 🎯 **Meta:** transformar cada projeto em uma lição e cada lição em um projeto melhor.
-
-</td>
-<td width="45%" valign="top">
+## 🩸 Sobre mim
 
 ```yaml
-show:
-  username: "@showlls"
-  nivel: "Dev Iniciante"
-  criador_de_conteudo: true
-  jogo_principal: "Flee The Facility"
-  linguagens_favoritas:
-    - Python 🐍
-    - Lua / Luau 🌙
-    - JavaScript ⚡
-  foco:
-    - Roblox
-    - Discord Bots
-  status: "Evoluindo todos os dias 🚀"
-  mood: "Café + código ☕"
+nome: Show
+username: "@showlls"
+foco:
+  - Criação de conteúdo
+  - Desenvolvimento e automação
+  - Roblox: UGC e Luau
+  - Discord: servidores e bots
+aprendizado_contínuo: true
 ```
 
-</td>
-</tr>
-</table>
-
-<br>
+Sou criador de conteúdo e estou evoluindo na programação. Gosto de desenvolver projetos, explorar ferramentas novas e criar experiências para comunidades no Roblox e no Discord.
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-
-# 🎮 O que eu faço
+| 🎨 Criação UGC | 🤖 Bots e comunidades | 🎬 Conteúdo |
+|:---:|:---:|:---:|
+| Itens e acessórios para Roblox | Servidores, automações e bots para Discord | Vídeos e publicações para redes sociais |
 
 </div>
 
-<table align="center">
+---
+
+## 🧰 Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,lua,js,nodejs,discord,git,github,vscode&theme=dark" alt="Tecnologias"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Python-0d0000?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Lua-0d0000?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
+<img src="https://img.shields.io/badge/Luau-0d0000?style=for-the-badge&logo=roblox&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-0d0000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Node.js-0d0000?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Discord-0d0000?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+<img src="https://img.shields.io/badge/Roblox-0d0000?style=for-the-badge&logo=roblox&logoColor=white"/>
+
+</div>
+
+## 📈 O que estou desenvolvendo
+
+<div align="center">
+
+<table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🧱 Roblox Dev
+### 🩸 Roblox
 
-Crio experiências no Roblox com **Luau**, explorando gameplay, interfaces e mecânicas personalizadas.
-
-- 🗺️ Mapas e mecânicas
-- ✨ Animações e efeitos
-- 🧩 Sistemas próprios (GUI, billboards...)
-- 🕹️ Lógica de gameplay do zero
+- Criação de itens e acessórios UGC
+- Projetos usando Luau
+- Exploração de novas ideias para experiências
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🤖 Discord Bots
+### 🌑 Discord
 
-Bots que dão vida a comunidades, com automações sob medida.
-
-- 💬 Comandos personalizados
-- 🛡️ Moderação e utilidades
-- 🔗 Integrações e automações
-- 🎉 Engajamento para servidores
+- Bots e ferramentas para comunidades
+- Organização de servidores
+- Automação de tarefas e recursos úteis
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🎥 Conteúdo
+### 💻 Programação
 
-Criador de conteúdo de jogos do Roblox, com foco em **Flee The Facility**.
+- Aprofundar conhecimentos em Python
+- Praticar JavaScript e Node.js
+- Aprender construindo projetos reais
 
-- 👾 Gameplays e momentos épicos
-- 💡 Dicas e estratégias
-- 🏆 Desafios e partidas
-- 🤝 Comunidade e diversão
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Conteúdo
+
+- Criar vídeos e publicações
+- Compartilhar projetos e processos
+- Testar formatos e ideias novas
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-# 👾 Flee The Facility
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Corre%2C+hackeia%2C+escapa+%F0%9F%8F%83;Meu+jogo+favorito+para+criar+conte%C3%BAdo+%F0%9F%8E%AC;Bora+jogar+junto%3F+%F0%9F%92%9C" />
-
 </div>
 
-<br>
+## 🦇 Nível atual de aprendizado
+
+> Estas barras são uma representação pessoal do meu foco de estudo, não métricas automáticas.
+
+| Área | Foco atual |
+|:---|:---|
+| 🐍 Python | `█████░░░░░` — fundamentos e prática |
+| 🌙 Lua / Luau | `██████░░░░` — scripts e desenvolvimento Roblox |
+| ⚡ JavaScript | `█████░░░░░` — aprendizado contínuo |
+| 🤖 Bots para Discord | `██████░░░░` — criação e melhorias |
+| 🎨 UGC | `███████░░░` — criação e experimentação |
+
+---
+
+## 🦇 Estatísticas do GitHub
 
 <div align="center">
 
-# 🛠️ Linguagens & Ferramentas
+<a href="https://github.com/showlls">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=showlls&show_icons=true&hide_border=true&title_color=B30000&text_color=e6cfcf&icon_color=B30000&bg_color=0d0000&border_color=5c0000&rank_icon=github" alt="Estatísticas do GitHub"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=py,lua,js,nodejs,discord,vscode,git,github,npm&theme=dark" />
+<a href="https://github.com/showlls">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=showlls&layout=compact&hide_border=true&title_color=B30000&text_color=e6cfcf&bg_color=0d0000&border_color=5c0000" alt="Linguagens mais usadas"/>
+</a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/Roblox_Studio-E2231A?style=flat-square&logo=roblox&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=showlls&background=0d0000&ring=B30000&fire=ff0000&currStreakLabel=d4af37&sideLabels=B30000&currStreakNum=e6cfcf&sideNums=e6cfcf&dates=8b6b6b&stroke=5c0000&border=5c0000" alt="Sequência de contribuições"/>
 
-</div>
+<br/><br/>
 
-<br>
-
-<div align="center">
-
-# 🌱 Jornada de Aprendizado
-
-</div>
-
-```text
-🌙 Lua / Luau (Roblox)    [██████████████░░░░░░]  70%
-⚡ JavaScript (Bots)      [████████░░░░░░░░░░░░]  40%
-🐍 Python                 [██████████░░░░░░░░░░]  50%
-🟢 Node.js                [██████░░░░░░░░░░░░░░]  30%
-🌿 Git & GitHub           [████░░░░░░░░░░░░░░░░]  20%
-```
-
-<div align="center">
-
-> 💡 *"Ainda estou no início, mas já resolvo problemas complexos. Cada dia é um novo aprendizado."*
+<img src="https://github-profile-trophy.vercel.app/?username=showlls&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Conquistas do GitHub"/>
 
 </div>
 
 <details>
-<summary><b>🗺️ Meu roadmap (clique para abrir)</b></summary>
+<summary><b>🕯️ Sobre as estatísticas</b></summary>
 
-<br>
-
-- [x] Primeiros passos no Roblox Studio e Luau
-- [x] Criar meus primeiros sistemas de gameplay e UI
-- [x] Dar vida a bots simples no Discord
-- [x] Começar a criar conteúdo de Roblox
-- [ ] Dominar melhor Python, JavaScript e Node.js
-- [ ] Organizar projetos com Git e GitHub
-- [ ] Publicar mais projetos open source
-- [ ] Construir um bot completo com painel de controle
-- [ ] Lançar um jogo no Roblox do início ao fim
+- Os cards são gerados por serviços externos e podem demorar para carregar.
+- As linguagens exibidas são estimativas baseadas nos repositórios analisados.
+- A aparência e a disponibilidade desses serviços podem mudar.
 
 </details>
 
-<br>
+---
+
+## 🌐 Me encontre por aí
 
 <div align="center">
 
-# 📌 Projetos em Destaque
+<a href="https://www.roblox.com/pt/users/6850709/profile">
+<img src="https://img.shields.io/badge/Roblox-@showlls-8B0000?style=for-the-badge&logo=roblox&logoColor=white&labelColor=0d0000" alt="Roblox"/>
+</a>
 
-</div>
-
-<table align="center">
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 🎮 Projeto Roblox
-*Em breve por aqui*
-
-Jogos, sistemas e mecânicas que estou construindo.
-
-<img src="https://img.shields.io/badge/status-em%20desenvolvimento-A970FF?style=for-the-badge&labelColor=0d1117"/>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🤖 Projeto Discord Bot
-*Em breve por aqui*
-
-Bots com comandos, moderação e automações.
-
-<img src="https://img.shields.io/badge/status-em%20desenvolvimento-5865F2?style=for-the-badge&labelColor=0d1117"/>
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🐍 Projeto Python
-*Em breve por aqui*
-
-Scripts, automações e experimentos.
-
-<img src="https://img.shields.io/badge/status-em%20desenvolvimento-FFD43B?style=for-the-badge&labelColor=0d1117"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<sub>🔎 Veja todos os meus repositórios em <a href="https://github.com/showlls?tab=repositories">github.com/showlls</a></sub>
-
-</div>
-
-<br>
-
-<div align="center">
-
-# 📈 Estatísticas
-
-<img src="https://github-readme-stats.vercel.app/api?username=showlls&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A970FF&icon_color=FF6AD5&text_color=c9d1d9&border_radius=12" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=showlls&theme=tokyonight&hide_border=true&background=0d1117&ring=A970FF&fire=FF6AD5&currStreakLabel=A970FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border_radius=12" width="48%"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=showlls&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A970FF&text_color=c9d1d9&border_radius=12" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=showlls&theme=tokyonight" width="48%"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=showlls&bg_color=0d1117&color=A970FF&line=6C63FF&point=FF6AD5&area=true&area_color=6C63FF&hide_border=true" width="100%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-# 🏆 Conquistas
-
-<img src="https://github-profile-trophy.vercel.app/?username=showlls&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-# 🎧 Curiosidades
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="20%">🎮<br><b>Gamer</b><br><sub>Jogo pra me inspirar</sub></td>
-<td align="center" width="20%">🎥<br><b>Creator</b><br><sub>Flee The Facility</sub></td>
-<td align="center" width="20%">🌙<br><b>Dark mode</b><br><sub>Sempre ligado</sub></td>
-<td align="center" width="20%">☕<br><b>Café</b><br><sub>Combustível do código</sub></td>
-<td align="center" width="20%">🧠<br><b>Curioso</b><br><sub>Aprendendo sempre</sub></td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-
-# 🌐 Me encontre
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=FF6AD5&center=true&vCenter=true&width=600&lines=Me+encontre+em+qualquer+lugar%3A+%40showlls+%F0%9F%92%9C;Bora+jogar+junto%3F+%F0%9F%8E%AE" />
-
-<br><br>
+<a href="https://www.tiktok.com/@showlls">
+<img src="https://img.shields.io/badge/TikTok-@showlls-8B0000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d0000" alt="TikTok"/>
+</a>
 
 <a href="https://discord.com/users/690885473991655464">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-@showlls-8B0000?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0000" alt="Discord"/>
 </a>
-<a href="https://www.roblox.com/pt/users/6850709/profile">
-  <img src="https://img.shields.io/badge/Roblox-E2231A?style=for-the-badge&logo=roblox&logoColor=white"/>
-</a>
-<a href="https://www.tiktok.com/@showlls">
-  <img src="https://img.shields.io/badge/TikTok-FF0050?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
+
 <a href="https://github.com/showlls">
-  <img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-@showlls-8B0000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0000" alt="GitHub"/>
 </a>
 
-<br>
+</div>
 
-<a href="https://www.xbox.com/play/user/showlls">
-  <img src="https://img.shields.io/badge/Xbox-@showlls-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
-</a>
-<a href="https://store.epicgames.com/u/showlls">
-  <img src="https://img.shields.io/badge/Epic_Games-@showlls-313131?style=for-the-badge&logo=epicgames&logoColor=white"/>
-</a>
-<a href="https://steamcommunity.com/id/showlls">
-  <img src="https://img.shields.io/badge/Steam-@showlls-1B2838?style=for-the-badge&logo=steam&logoColor=white"/>
-</a>
+## 💬 Contato e colaboração
 
-<br><br>
+Tenho interesse em conhecer pessoas, trocar ideias e conversar sobre projetos relacionados a Roblox, Discord, programação e criação de conteúdo.
 
-<img src="https://komarev.com/ghpvc/?username=showlls&color=A970FF&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES+NO+PERFIL" />
+- Para projetos e repositórios, você pode abrir uma issue ou discussão no GitHub.
+- Para conversar, entre em contato pelo Discord.
+- Se algum repositório for útil, deixe uma ⭐ — isso ajuda bastante.
 
-<br><br>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=%22Todo+grande+dev+j%C3%A1+foi+iniciante.%22;Obrigado+por+passar+por+aqui!+%F0%9F%92%9C" />
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divisória animada"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=140&section=footer&animation=twinkling" width="100%"/>
+### Obrigado por visitar meu perfil!
+
+<sub>Perfil desenvolvido com Markdown, HTML e detalhes em vermelho-sangue.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:b30000,55:4a0000,100:050505" alt="Rodapé gótico"/>
 
 </div>
